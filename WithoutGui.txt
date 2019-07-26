@@ -2,5 +2,5 @@ I do not have Gui for Git.
 아시겠어요?
 
 #2 추가한 내용 (added text)
-
+#3 한글 깨짐 테스트
 Clauddok@gmail.com
